@@ -1,5 +1,3 @@
-//: [Previous](@previous)
-
 import Foundation
 
 /*
@@ -19,4 +17,5 @@ import Foundation
  assert(challenge1(input: "Hello, world") == false, "Challenge 1 failed")
  
  */
+
 
